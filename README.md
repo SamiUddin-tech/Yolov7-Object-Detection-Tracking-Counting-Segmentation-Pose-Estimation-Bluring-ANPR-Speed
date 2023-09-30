@@ -3,7 +3,7 @@
 The model was accuired from [YOLOv7 Official GitHub Repo](https://github.com/WongKinYiu/yolov7)
 
 Following Projects are done using Yolov7
-1. Yolov7 Person Detection
+1. Yolov7 Object Detection
 
 ## 1. Yolov7 Person Detection
 

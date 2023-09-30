@@ -1,6 +1,6 @@
 # Yolov7-Object-Detection-Tracking-Counting-Segmentation-Pose-Estimation-Bluring-ANPR-Speed
 
-Following Projects are done using Yolov7
+Following Projects are done using Yolov7. Please check the Google Colab files (.ipynb) for code and implementation pipeline.
 1. Yolov7 Object Detection
 
 ## 1. Yolov7 Person Detection
